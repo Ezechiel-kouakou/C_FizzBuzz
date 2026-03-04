@@ -1,5 +1,5 @@
 # C_FizzBuzz
-Projet académique
+Projets académiques
 
 
 
